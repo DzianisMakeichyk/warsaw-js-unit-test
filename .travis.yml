@@ -7,4 +7,3 @@ cache:
 deploy:
   provider: heroku
   api_key: 2132e54f-b47a-447c-a326-a1105b5b56f1
-  app: $APP
